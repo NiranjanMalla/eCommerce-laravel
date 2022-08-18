@@ -31,3 +31,6 @@
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
   </nav>
+
+
+  {{-- this don't have a route but it is in the master.blade.php tagged as {{View:make('header')}} --}}

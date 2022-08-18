@@ -25,7 +25,9 @@
 </head>
 <body>
 
+    {{-- this below tag will import heade.blade.php --}}
     {{View::make('header')}}
+
     @yield('content')
 
 
